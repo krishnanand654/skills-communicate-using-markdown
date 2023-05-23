@@ -4,3 +4,7 @@
 $ npx create-react-app my-app
 Creates a new react app called my-app
 ```
+- [x] How to create react app
+- [ ] How to create and nest components
+- [ ] How to add markup and styles
+- [ ] How to display data
